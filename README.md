@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MaatherData
+- 👋 Hi, I’m MData
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning different analyzing tools
 - 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me via email
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
